@@ -6,4 +6,6 @@ Get started by reading [[README]]#.
 
 Other pages on this zettelkasten:
 
+This is a test.
+
 - [[faq]]#
